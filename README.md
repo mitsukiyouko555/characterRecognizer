@@ -25,7 +25,7 @@ Train the model to differentiate the characters based on images with multiple ch
 - Data Organization
 - Convolutional Neural Network Model Building (Tensorflow and Keras)
 - Transfer Learning and Fine Tuning
-- Single-Label Classifcation
-- Multi-Label Classifcation
+- Single-Label Classification
+- Multi-Label Classification
 - Evaluation (Assessing Model Performance)
 - Data Augmentation
